@@ -1,0 +1,803 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6f535979-bc3f-4e0b-9c6d-0bc75fb27425" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="TodoList.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jspangAdmin/src/components/todoList/TodoList.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="30" column="70" lean-forward="false" selection-start-line="30" selection-start-column="70" selection-end-line="30" selection-end-column="70" />
+              <folding>
+                <marker date="1509612898000" expanded="true" signature="9:284" ph="..." />
+                <marker date="1509612898000" expanded="true" signature="26:270" ph="..." />
+                <marker date="1509612898000" expanded="true" signature="160:263" ph="..." />
+                <marker date="1509612898000" expanded="true" signature="203:251" ph="..." />
+                <marker date="1509612898000" expanded="true" signature="294:1515" ph="..." />
+                <marker date="1509612898000" expanded="true" signature="384:1506" ph="{...}" />
+                <marker date="1509612898000" expanded="true" signature="405:439" ph="{&quot;vPageTitle&quot;: vPageTitle...}" />
+                <marker date="1509612898000" expanded="true" signature="455:1137" ph="{...}" />
+                <marker date="1509612898000" expanded="true" signature="475:1127" ph="{&quot;inputContent&quot;: ''...}" />
+                <marker date="1509612898000" expanded="true" signature="539:1113" ph="[...]" />
+                <marker date="1509612898000" expanded="true" signature="1165:1500" ph="{...}" />
+                <marker date="1509612898000" expanded="true" signature="1197:1490" ph="{...}" />
+                <marker date="1509612898000" expanded="true" signature="1257:1476" ph="{...}" />
+                <marker date="1509612898000" expanded="true" signature="1524:2380" ph="..." />
+                <marker date="1509612898000" expanded="true" signature="1537:1572" ph="{...}" />
+                <marker date="1509612898000" expanded="true" signature="1586:1700" ph="{...}" />
+                <marker date="1509612898000" expanded="true" signature="1717:2034" ph="{...}" />
+                <marker date="1509612898000" expanded="true" signature="2065:2113" ph="{...}" />
+                <marker date="1509612898000" expanded="true" signature="2137:2215" ph="{...}" />
+                <marker date="1509612898000" expanded="true" signature="2229:2360" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jspangAdmin/src/router/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="15" lean-forward="false" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+              <folding>
+                <element signature="e#0#22#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FormInput.vue" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/jspangAdmin/src/components/page/FormInput.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="305">
+              <caret line="188" column="20" lean-forward="false" selection-start-line="188" selection-start-column="20" selection-end-line="188" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BasicTables.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jspangAdmin/src/components/page/BasicTables.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="15" column="32" lean-forward="false" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+              <folding>
+                <marker date="1509616869000" expanded="true" signature="9:1816" ph="..." />
+                <marker date="1509616869000" expanded="true" signature="19:1801" ph="..." />
+                <marker date="1509616869000" expanded="true" signature="110:626" ph="..." />
+                <marker date="1509616869000" expanded="true" signature="167:354" ph="..." />
+                <marker date="1509616869000" expanded="true" signature="210:332" ph="..." />
+                <marker date="1509616869000" expanded="true" signature="412:606" ph="..." />
+                <marker date="1509616869000" expanded="true" signature="455:584" ph="..." />
+                <marker date="1509616869000" expanded="true" signature="658:1195" ph="..." />
+                <marker date="1509616869000" expanded="true" signature="715:911" ph="..." />
+                <marker date="1509616869000" expanded="true" signature="758:889" ph="..." />
+                <marker date="1509616869000" expanded="true" signature="971:1174" ph="..." />
+                <marker date="1509616869000" expanded="true" signature="1014:1152" ph="..." />
+                <marker date="1509616869000" expanded="true" signature="1227:1785" ph="..." />
+                <marker date="1509616869000" expanded="true" signature="1284:1494" ph="..." />
+                <marker date="1509616869000" expanded="true" signature="1327:1472" ph="..." />
+                <marker date="1509616869000" expanded="true" signature="1554:1764" ph="..." />
+                <marker date="1509616869000" expanded="true" signature="1597:1742" ph="..." />
+                <marker date="1509616869000" expanded="true" signature="1826:2444" ph="..." />
+                <marker date="1509616869000" expanded="true" signature="1839:2241" ph="..." />
+                <marker date="1509616869000" expanded="true" signature="2263:2435" ph="{...}" />
+                <marker date="1509616869000" expanded="true" signature="2284:2399" ph="{&quot;vPageTitle&quot;: vPageTitle...}" />
+                <marker date="1509616869000" expanded="true" signature="2418:2429" ph="{...}" />
+                <marker date="1509616869000" expanded="true" signature="2460:2720" ph="..." />
+                <marker date="1509616869000" expanded="true" signature="2473:2508" ph="{...}" />
+                <marker date="1509616869000" expanded="true" signature="2522:2553" ph="{...}" />
+                <marker date="1509616869000" expanded="true" signature="2570:2707" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="condensedTable.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jspangAdmin/src/components/tables/condensedTable.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+              <folding>
+                <marker date="1509612898000" expanded="true" signature="9:521" ph="..." />
+                <marker date="1509612898000" expanded="false" signature="49:60" ph="..." />
+                <marker date="1509612898000" expanded="true" signature="99:509" ph="..." />
+                <marker date="1509612898000" expanded="true" signature="531:812" ph="..." />
+                <marker date="1509612898000" expanded="true" signature="561:600" ph="{...}" />
+                <marker date="1509612898000" expanded="true" signature="628:667" ph="{...}" />
+                <marker date="1509612898000" expanded="true" signature="695:734" ph="{...}" />
+                <marker date="1509612898000" expanded="true" signature="762:801" ph="{...}" />
+                <marker date="1509612898000" expanded="true" signature="822:2428" ph="..." />
+                <marker date="1509612898000" expanded="true" signature="843:2419" ph="{...}" />
+                <marker date="1509612898000" expanded="true" signature="860:1312" ph="{...}" />
+                <marker date="1509612898000" expanded="true" signature="902:1302" ph="{...}" />
+                <marker date="1509612898000" expanded="true" signature="932:986" ph="{...}" />
+                <marker date="1509612898000" expanded="true" signature="1022:1076" ph="{...}" />
+                <marker date="1509612898000" expanded="true" signature="1111:1165" ph="{...}" />
+                <marker date="1509612898000" expanded="true" signature="1200:1254" ph="{...}" />
+                <marker date="1509612898000" expanded="true" signature="1327:2413" ph="{...}" />
+                <marker date="1509612898000" expanded="true" signature="1344:2405" ph="{...}" />
+                <marker date="1509612898000" expanded="true" signature="1367:2395" ph="[...]" />
+                <marker date="1509612898000" expanded="true" signature="1368:1516" ph="{&quot;id&quot;: 1...}" />
+                <marker date="1509612898000" expanded="true" signature="1518:1658" ph="{&quot;id&quot;: 2...}" />
+                <marker date="1509612898000" expanded="true" signature="1660:1803" ph="{&quot;id&quot;: 3...}" />
+                <marker date="1509612898000" expanded="true" signature="1805:1955" ph="{&quot;id&quot;: 4...}" />
+                <marker date="1509612898000" expanded="true" signature="1957:2097" ph="{&quot;id&quot;: 2...}" />
+                <marker date="1509612898000" expanded="true" signature="2099:2242" ph="{&quot;id&quot;: 3...}" />
+                <marker date="1509612898000" expanded="true" signature="2244:2394" ph="{&quot;id&quot;: 4...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="inlineForm.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jspangAdmin/src/components/forms/inlineForm.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="19" lean-forward="false" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+              <folding>
+                <marker date="1509617651000" expanded="true" signature="9:731" ph="..." />
+                <marker date="1509617651000" expanded="true" signature="82:719" ph="..." />
+                <marker date="1509617651000" expanded="true" signature="113:207" ph="..." />
+                <marker date="1509617651000" expanded="true" signature="239:336" ph="..." />
+                <marker date="1509617651000" expanded="true" signature="368:597" ph="..." />
+                <marker date="1509617651000" expanded="true" signature="435:577" ph="..." />
+                <marker date="1509617651000" expanded="true" signature="617:704" ph="..." />
+                <marker date="1509617651000" expanded="true" signature="740:992" ph="..." />
+                <marker date="1509617651000" expanded="true" signature="761:983" ph="{...}" />
+                <marker date="1509617651000" expanded="true" signature="774:898" ph="{...}" />
+                <marker date="1509617651000" expanded="true" signature="789:892" ph="{...}" />
+                <marker date="1509617651000" expanded="true" signature="811:884" ph="{&quot;user&quot;: ''...}" />
+                <marker date="1509617651000" expanded="true" signature="913:979" ph="{...}" />
+                <marker date="1509617651000" expanded="true" signature="932:973" ph="{...}" />
+                <marker date="1509617651000" expanded="true" signature="1007:1017" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rightLayoutForm.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jspangAdmin/src/components/forms/rightLayoutForm.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1509612898000" expanded="true" signature="9:629" ph="..." />
+                <marker date="1509612898000" expanded="true" signature="17:616" ph="..." />
+                <marker date="1509612898000" expanded="true" signature="98:609" ph="..." />
+                <marker date="1509612898000" expanded="true" signature="132:220" ph="..." />
+                <marker date="1509612898000" expanded="true" signature="256:346" ph="..." />
+                <marker date="1509612898000" expanded="true" signature="382:470" ph="..." />
+                <marker date="1509612898000" expanded="true" signature="506:594" ph="..." />
+                <marker date="1509612898000" expanded="true" signature="638:911" ph="..." />
+                <marker date="1509612898000" expanded="true" signature="659:902" ph="{...}" />
+                <marker date="1509612898000" expanded="true" signature="672:817" ph="{...}" />
+                <marker date="1509612898000" expanded="true" signature="687:811" ph="{...}" />
+                <marker date="1509612898000" expanded="true" signature="712:803" ph="{&quot;name&quot;: ''...}" />
+                <marker date="1509612898000" expanded="true" signature="832:898" ph="{...}" />
+                <marker date="1509612898000" expanded="true" signature="851:892" ph="{...}" />
+                <marker date="1509612898000" expanded="true" signature="926:940" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="topLayoutForm.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jspangAdmin/src/components/forms/topLayoutForm.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="7" lean-forward="false" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+              <folding>
+                <marker date="1509612898000" expanded="true" signature="9:508" ph="..." />
+                <marker date="1509612898000" expanded="true" signature="18:495" ph="..." />
+                <marker date="1509612898000" expanded="true" signature="97:484" ph="..." />
+                <marker date="1509612898000" expanded="true" signature="131:219" ph="..." />
+                <marker date="1509612898000" expanded="true" signature="255:345" ph="..." />
+                <marker date="1509612898000" expanded="true" signature="381:469" ph="..." />
+                <marker date="1509612898000" expanded="true" signature="517:771" ph="..." />
+                <marker date="1509612898000" expanded="true" signature="538:762" ph="{...}" />
+                <marker date="1509612898000" expanded="true" signature="551:677" ph="{...}" />
+                <marker date="1509612898000" expanded="true" signature="566:671" ph="{...}" />
+                <marker date="1509612898000" expanded="true" signature="591:663" ph="{&quot;name&quot;: ''...}" />
+                <marker date="1509612898000" expanded="true" signature="692:758" ph="{...}" />
+                <marker date="1509612898000" expanded="true" signature="711:752" ph="{...}" />
+                <marker date="1509612898000" expanded="true" signature="786:800" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MessageList.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jspangAdmin/src/components/message/MessageList.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="17" lean-forward="false" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+              <folding>
+                <marker date="1509612898000" expanded="true" signature="9:357" ph="..." />
+                <marker date="1509612898000" expanded="true" signature="19:345" ph="..." />
+                <marker date="1509612898000" expanded="true" signature="53:333" ph="..." />
+                <marker date="1509612898000" expanded="true" signature="98:310" ph="..." />
+                <marker date="1509612898000" expanded="true" signature="367:1191" ph="..." />
+                <marker date="1509612898000" expanded="true" signature="388:1182" ph="{...}" />
+                <marker date="1509612898000" expanded="true" signature="409:432" ph="{...}" />
+                <marker date="1509612898000" expanded="true" signature="450:1140" ph="{...}" />
+                <marker date="1509612898000" expanded="true" signature="471:1130" ph="{...}" />
+                <marker date="1509612898000" expanded="true" signature="514:1116" ph="[...]" />
+                <marker date="1509612898000" expanded="true" signature="1159:1176" ph="{...}" />
+                <marker date="1509612898000" expanded="true" signature="1207:2053" ph="..." />
+                <marker date="1509612898000" expanded="true" signature="1229:1261" ph="{...}" />
+                <marker date="1509612898000" expanded="true" signature="1281:1438" ph="{...}" />
+                <marker date="1509612898000" expanded="true" signature="1460:1557" ph="{...}" />
+                <marker date="1509612898000" expanded="true" signature="1578:1802" ph="{...}" />
+                <marker date="1509612898000" expanded="true" signature="1832:1874" ph="{...}" />
+                <marker date="1509612898000" expanded="true" signature="1903:1977" ph="{...}" />
+                <marker date="1509612898000" expanded="true" signature="2008:2038" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="leftLayoutForm.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jspangAdmin/src/components/forms/leftLayoutForm.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="8" lean-forward="false" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+              <folding>
+                <marker date="1509612898000" expanded="true" signature="9:629" ph="..." />
+                <marker date="1509612898000" expanded="true" signature="17:616" ph="..." />
+                <marker date="1509612898000" expanded="true" signature="97:609" ph="..." />
+                <marker date="1509612898000" expanded="true" signature="131:219" ph="..." />
+                <marker date="1509612898000" expanded="true" signature="255:345" ph="..." />
+                <marker date="1509612898000" expanded="true" signature="381:469" ph="..." />
+                <marker date="1509612898000" expanded="true" signature="506:594" ph="..." />
+                <marker date="1509612898000" expanded="true" signature="638:911" ph="..." />
+                <marker date="1509612898000" expanded="true" signature="659:902" ph="{...}" />
+                <marker date="1509612898000" expanded="true" signature="672:817" ph="{...}" />
+                <marker date="1509612898000" expanded="true" signature="687:811" ph="{...}" />
+                <marker date="1509612898000" expanded="true" signature="712:803" ph="{&quot;name&quot;: ''...}" />
+                <marker date="1509612898000" expanded="true" signature="832:898" ph="{...}" />
+                <marker date="1509612898000" expanded="true" signature="851:892" ph="{...}" />
+                <marker date="1509612898000" expanded="true" signature="926:940" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>onRoutes</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/jspangAdmin/src/components/common/Home.vue" />
+        <option value="$PROJECT_DIR$/jspangAdmin/src/components/common/sidebar.vue" />
+        <option value="$PROJECT_DIR$/jspangAdmin/src/components/page/EditorPage.vue" />
+        <option value="$PROJECT_DIR$/jspangAdmin/src/components/common/pageTitle.vue" />
+        <option value="$PROJECT_DIR$/jspangAdmin/src/components/page/BasicTables.vue" />
+        <option value="$PROJECT_DIR$/jspangAdmin/src/components/forms/inlineForm.vue" />
+        <option value="$PROJECT_DIR$/jspangAdmin/src/components/page/FormInput.vue" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/jspangAdmin/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="13" />
+    <option name="y" value="23" />
+    <option name="width" value="1436" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="jspangAdmin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jspangAdmin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jspangAdmin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jspangAdmin" type="462c0819:PsiDirectoryNode" />
+              <item name="jspangAdmin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jspangAdmin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jspangAdmin" type="462c0819:PsiDirectoryNode" />
+              <item name="jspangAdmin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jspangAdmin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jspangAdmin" type="462c0819:PsiDirectoryNode" />
+              <item name="jspangAdmin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jspangAdmin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jspangAdmin" type="462c0819:PsiDirectoryNode" />
+              <item name="jspangAdmin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jspangAdmin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jspangAdmin" type="462c0819:PsiDirectoryNode" />
+              <item name="jspangAdmin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="forms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jspangAdmin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jspangAdmin" type="462c0819:PsiDirectoryNode" />
+              <item name="jspangAdmin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="message" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jspangAdmin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jspangAdmin" type="462c0819:PsiDirectoryNode" />
+              <item name="jspangAdmin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jspangAdmin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jspangAdmin" type="462c0819:PsiDirectoryNode" />
+              <item name="jspangAdmin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="router" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f535979-bc3f-4e0b-9c6d-0bc75fb27425" name="Default" comment="" />
+      <created>1509613280382</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1509613280382</updated>
+      <workItem from="1509613281600" duration="6234000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6234000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="13" y="23" width="1436" height="877" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16364902" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/jspangAdmin/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jspangAdmin/src/components/common/pageTitle.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jspangAdmin/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jspangAdmin/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jspangAdmin/src/components/page/EditorPage.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="10" lean-forward="true" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jspangAdmin/src/components/common/header.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="157" column="23" lean-forward="true" selection-start-line="157" selection-start-column="23" selection-end-line="157" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jspangAdmin/src/components/common/sidebar.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="70" column="9" lean-forward="true" selection-start-line="70" selection-start-column="9" selection-end-line="70" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jspangAdmin/src/components/common/Home.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jspangAdmin/src/components/page/DashBoard.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="154" column="20" lean-forward="true" selection-start-line="154" selection-start-column="20" selection-end-line="154" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jspangAdmin/src/components/page/BasicCharts.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jspangAdmin/src/components/page/BasicTables.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="15" column="32" lean-forward="false" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+          <folding>
+            <marker date="1509616869000" expanded="true" signature="9:1816" ph="..." />
+            <marker date="1509616869000" expanded="true" signature="19:1801" ph="..." />
+            <marker date="1509616869000" expanded="true" signature="110:626" ph="..." />
+            <marker date="1509616869000" expanded="true" signature="167:354" ph="..." />
+            <marker date="1509616869000" expanded="true" signature="210:332" ph="..." />
+            <marker date="1509616869000" expanded="true" signature="412:606" ph="..." />
+            <marker date="1509616869000" expanded="true" signature="455:584" ph="..." />
+            <marker date="1509616869000" expanded="true" signature="658:1195" ph="..." />
+            <marker date="1509616869000" expanded="true" signature="715:911" ph="..." />
+            <marker date="1509616869000" expanded="true" signature="758:889" ph="..." />
+            <marker date="1509616869000" expanded="true" signature="971:1174" ph="..." />
+            <marker date="1509616869000" expanded="true" signature="1014:1152" ph="..." />
+            <marker date="1509616869000" expanded="true" signature="1227:1785" ph="..." />
+            <marker date="1509616869000" expanded="true" signature="1284:1494" ph="..." />
+            <marker date="1509616869000" expanded="true" signature="1327:1472" ph="..." />
+            <marker date="1509616869000" expanded="true" signature="1554:1764" ph="..." />
+            <marker date="1509616869000" expanded="true" signature="1597:1742" ph="..." />
+            <marker date="1509616869000" expanded="true" signature="1826:2444" ph="..." />
+            <marker date="1509616869000" expanded="true" signature="1839:2241" ph="..." />
+            <marker date="1509616869000" expanded="true" signature="2263:2435" ph="{...}" />
+            <marker date="1509616869000" expanded="true" signature="2284:2399" ph="{&quot;vPageTitle&quot;: vPageTitle...}" />
+            <marker date="1509616869000" expanded="true" signature="2418:2429" ph="{...}" />
+            <marker date="1509616869000" expanded="true" signature="2460:2720" ph="..." />
+            <marker date="1509616869000" expanded="true" signature="2473:2508" ph="{...}" />
+            <marker date="1509616869000" expanded="true" signature="2522:2553" ph="{...}" />
+            <marker date="1509616869000" expanded="true" signature="2570:2707" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jspangAdmin/src/components/tables/condensedTable.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding>
+            <marker date="1509612898000" expanded="true" signature="9:521" ph="..." />
+            <marker date="1509612898000" expanded="false" signature="49:60" ph="..." />
+            <marker date="1509612898000" expanded="true" signature="99:509" ph="..." />
+            <marker date="1509612898000" expanded="true" signature="531:812" ph="..." />
+            <marker date="1509612898000" expanded="true" signature="561:600" ph="{...}" />
+            <marker date="1509612898000" expanded="true" signature="628:667" ph="{...}" />
+            <marker date="1509612898000" expanded="true" signature="695:734" ph="{...}" />
+            <marker date="1509612898000" expanded="true" signature="762:801" ph="{...}" />
+            <marker date="1509612898000" expanded="true" signature="822:2428" ph="..." />
+            <marker date="1509612898000" expanded="true" signature="843:2419" ph="{...}" />
+            <marker date="1509612898000" expanded="true" signature="860:1312" ph="{...}" />
+            <marker date="1509612898000" expanded="true" signature="902:1302" ph="{...}" />
+            <marker date="1509612898000" expanded="true" signature="932:986" ph="{...}" />
+            <marker date="1509612898000" expanded="true" signature="1022:1076" ph="{...}" />
+            <marker date="1509612898000" expanded="true" signature="1111:1165" ph="{...}" />
+            <marker date="1509612898000" expanded="true" signature="1200:1254" ph="{...}" />
+            <marker date="1509612898000" expanded="true" signature="1327:2413" ph="{...}" />
+            <marker date="1509612898000" expanded="true" signature="1344:2405" ph="{...}" />
+            <marker date="1509612898000" expanded="true" signature="1367:2395" ph="[...]" />
+            <marker date="1509612898000" expanded="true" signature="1368:1516" ph="{&quot;id&quot;: 1...}" />
+            <marker date="1509612898000" expanded="true" signature="1518:1658" ph="{&quot;id&quot;: 2...}" />
+            <marker date="1509612898000" expanded="true" signature="1660:1803" ph="{&quot;id&quot;: 3...}" />
+            <marker date="1509612898000" expanded="true" signature="1805:1955" ph="{&quot;id&quot;: 4...}" />
+            <marker date="1509612898000" expanded="true" signature="1957:2097" ph="{&quot;id&quot;: 2...}" />
+            <marker date="1509612898000" expanded="true" signature="2099:2242" ph="{&quot;id&quot;: 3...}" />
+            <marker date="1509612898000" expanded="true" signature="2244:2394" ph="{&quot;id&quot;: 4...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jspangAdmin/src/components/forms/inlineForm.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="19" lean-forward="false" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+          <folding>
+            <marker date="1509617651000" expanded="true" signature="9:731" ph="..." />
+            <marker date="1509617651000" expanded="true" signature="82:719" ph="..." />
+            <marker date="1509617651000" expanded="true" signature="113:207" ph="..." />
+            <marker date="1509617651000" expanded="true" signature="239:336" ph="..." />
+            <marker date="1509617651000" expanded="true" signature="368:597" ph="..." />
+            <marker date="1509617651000" expanded="true" signature="435:577" ph="..." />
+            <marker date="1509617651000" expanded="true" signature="617:704" ph="..." />
+            <marker date="1509617651000" expanded="true" signature="740:992" ph="..." />
+            <marker date="1509617651000" expanded="true" signature="761:983" ph="{...}" />
+            <marker date="1509617651000" expanded="true" signature="774:898" ph="{...}" />
+            <marker date="1509617651000" expanded="true" signature="789:892" ph="{...}" />
+            <marker date="1509617651000" expanded="true" signature="811:884" ph="{&quot;user&quot;: ''...}" />
+            <marker date="1509617651000" expanded="true" signature="913:979" ph="{...}" />
+            <marker date="1509617651000" expanded="true" signature="932:973" ph="{...}" />
+            <marker date="1509617651000" expanded="true" signature="1007:1017" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jspangAdmin/src/components/forms/leftLayoutForm.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="8" lean-forward="false" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+          <folding>
+            <marker date="1509612898000" expanded="true" signature="9:629" ph="..." />
+            <marker date="1509612898000" expanded="true" signature="17:616" ph="..." />
+            <marker date="1509612898000" expanded="true" signature="97:609" ph="..." />
+            <marker date="1509612898000" expanded="true" signature="131:219" ph="..." />
+            <marker date="1509612898000" expanded="true" signature="255:345" ph="..." />
+            <marker date="1509612898000" expanded="true" signature="381:469" ph="..." />
+            <marker date="1509612898000" expanded="true" signature="506:594" ph="..." />
+            <marker date="1509612898000" expanded="true" signature="638:911" ph="..." />
+            <marker date="1509612898000" expanded="true" signature="659:902" ph="{...}" />
+            <marker date="1509612898000" expanded="true" signature="672:817" ph="{...}" />
+            <marker date="1509612898000" expanded="true" signature="687:811" ph="{...}" />
+            <marker date="1509612898000" expanded="true" signature="712:803" ph="{&quot;name&quot;: ''...}" />
+            <marker date="1509612898000" expanded="true" signature="832:898" ph="{...}" />
+            <marker date="1509612898000" expanded="true" signature="851:892" ph="{...}" />
+            <marker date="1509612898000" expanded="true" signature="926:940" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jspangAdmin/src/components/forms/rightLayoutForm.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1509612898000" expanded="true" signature="9:629" ph="..." />
+            <marker date="1509612898000" expanded="true" signature="17:616" ph="..." />
+            <marker date="1509612898000" expanded="true" signature="98:609" ph="..." />
+            <marker date="1509612898000" expanded="true" signature="132:220" ph="..." />
+            <marker date="1509612898000" expanded="true" signature="256:346" ph="..." />
+            <marker date="1509612898000" expanded="true" signature="382:470" ph="..." />
+            <marker date="1509612898000" expanded="true" signature="506:594" ph="..." />
+            <marker date="1509612898000" expanded="true" signature="638:911" ph="..." />
+            <marker date="1509612898000" expanded="true" signature="659:902" ph="{...}" />
+            <marker date="1509612898000" expanded="true" signature="672:817" ph="{...}" />
+            <marker date="1509612898000" expanded="true" signature="687:811" ph="{...}" />
+            <marker date="1509612898000" expanded="true" signature="712:803" ph="{&quot;name&quot;: ''...}" />
+            <marker date="1509612898000" expanded="true" signature="832:898" ph="{...}" />
+            <marker date="1509612898000" expanded="true" signature="851:892" ph="{...}" />
+            <marker date="1509612898000" expanded="true" signature="926:940" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jspangAdmin/src/components/forms/topLayoutForm.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="7" lean-forward="false" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+          <folding>
+            <marker date="1509612898000" expanded="true" signature="9:508" ph="..." />
+            <marker date="1509612898000" expanded="true" signature="18:495" ph="..." />
+            <marker date="1509612898000" expanded="true" signature="97:484" ph="..." />
+            <marker date="1509612898000" expanded="true" signature="131:219" ph="..." />
+            <marker date="1509612898000" expanded="true" signature="255:345" ph="..." />
+            <marker date="1509612898000" expanded="true" signature="381:469" ph="..." />
+            <marker date="1509612898000" expanded="true" signature="517:771" ph="..." />
+            <marker date="1509612898000" expanded="true" signature="538:762" ph="{...}" />
+            <marker date="1509612898000" expanded="true" signature="551:677" ph="{...}" />
+            <marker date="1509612898000" expanded="true" signature="566:671" ph="{...}" />
+            <marker date="1509612898000" expanded="true" signature="591:663" ph="{&quot;name&quot;: ''...}" />
+            <marker date="1509612898000" expanded="true" signature="692:758" ph="{...}" />
+            <marker date="1509612898000" expanded="true" signature="711:752" ph="{...}" />
+            <marker date="1509612898000" expanded="true" signature="786:800" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jspangAdmin/src/components/message/MessageList.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="17" lean-forward="false" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+          <folding>
+            <marker date="1509612898000" expanded="true" signature="9:357" ph="..." />
+            <marker date="1509612898000" expanded="true" signature="19:345" ph="..." />
+            <marker date="1509612898000" expanded="true" signature="53:333" ph="..." />
+            <marker date="1509612898000" expanded="true" signature="98:310" ph="..." />
+            <marker date="1509612898000" expanded="true" signature="367:1191" ph="..." />
+            <marker date="1509612898000" expanded="true" signature="388:1182" ph="{...}" />
+            <marker date="1509612898000" expanded="true" signature="409:432" ph="{...}" />
+            <marker date="1509612898000" expanded="true" signature="450:1140" ph="{...}" />
+            <marker date="1509612898000" expanded="true" signature="471:1130" ph="{...}" />
+            <marker date="1509612898000" expanded="true" signature="514:1116" ph="[...]" />
+            <marker date="1509612898000" expanded="true" signature="1159:1176" ph="{...}" />
+            <marker date="1509612898000" expanded="true" signature="1207:2053" ph="..." />
+            <marker date="1509612898000" expanded="true" signature="1229:1261" ph="{...}" />
+            <marker date="1509612898000" expanded="true" signature="1281:1438" ph="{...}" />
+            <marker date="1509612898000" expanded="true" signature="1460:1557" ph="{...}" />
+            <marker date="1509612898000" expanded="true" signature="1578:1802" ph="{...}" />
+            <marker date="1509612898000" expanded="true" signature="1832:1874" ph="{...}" />
+            <marker date="1509612898000" expanded="true" signature="1903:1977" ph="{...}" />
+            <marker date="1509612898000" expanded="true" signature="2008:2038" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jspangAdmin/src/components/todoList/TodoList.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="30" column="70" lean-forward="false" selection-start-line="30" selection-start-column="70" selection-end-line="30" selection-end-column="70" />
+          <folding>
+            <marker date="1509612898000" expanded="true" signature="9:284" ph="..." />
+            <marker date="1509612898000" expanded="true" signature="26:270" ph="..." />
+            <marker date="1509612898000" expanded="true" signature="160:263" ph="..." />
+            <marker date="1509612898000" expanded="true" signature="203:251" ph="..." />
+            <marker date="1509612898000" expanded="true" signature="294:1515" ph="..." />
+            <marker date="1509612898000" expanded="true" signature="384:1506" ph="{...}" />
+            <marker date="1509612898000" expanded="true" signature="405:439" ph="{&quot;vPageTitle&quot;: vPageTitle...}" />
+            <marker date="1509612898000" expanded="true" signature="455:1137" ph="{...}" />
+            <marker date="1509612898000" expanded="true" signature="475:1127" ph="{&quot;inputContent&quot;: ''...}" />
+            <marker date="1509612898000" expanded="true" signature="539:1113" ph="[...]" />
+            <marker date="1509612898000" expanded="true" signature="1165:1500" ph="{...}" />
+            <marker date="1509612898000" expanded="true" signature="1197:1490" ph="{...}" />
+            <marker date="1509612898000" expanded="true" signature="1257:1476" ph="{...}" />
+            <marker date="1509612898000" expanded="true" signature="1524:2380" ph="..." />
+            <marker date="1509612898000" expanded="true" signature="1537:1572" ph="{...}" />
+            <marker date="1509612898000" expanded="true" signature="1586:1700" ph="{...}" />
+            <marker date="1509612898000" expanded="true" signature="1717:2034" ph="{...}" />
+            <marker date="1509612898000" expanded="true" signature="2065:2113" ph="{...}" />
+            <marker date="1509612898000" expanded="true" signature="2137:2215" ph="{...}" />
+            <marker date="1509612898000" expanded="true" signature="2229:2360" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jspangAdmin/src/router/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="15" lean-forward="false" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jspangAdmin/src/components/page/FormInput.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="188" column="20" lean-forward="false" selection-start-line="188" selection-start-column="20" selection-end-line="188" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
